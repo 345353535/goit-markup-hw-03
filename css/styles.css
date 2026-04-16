@@ -43,7 +43,7 @@ button {
   margin: -1px;
 }
 .container {
-  width: 1158px;
+  max-width: 1158px;
   padding-left: 15px;
   padding-right: 15px;
   margin-left: auto;
@@ -180,6 +180,7 @@ button {
 .team-card {
   background: #fff;
   width: 264px;
+  border-radius: 0 0 4px 4px;
 }
 .team-card-title {
   font-weight: 500;
